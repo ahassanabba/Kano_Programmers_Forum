@@ -14,6 +14,7 @@ The websites will comprise three sections which are Home, about, contact and las
 - Contact page:- it will consist of our social media handles and some important info on how to contact us.
 - Footer:- It will consist of information that suppose to be shown in the footer like the year currently in and the rest.
 - Here is the link to our prototype website:- <a href="https://www.hostinger.com/website-templates/preview/jesper?returnPath=%2Fwebsite-templates%2Fcommunity&defaultTemplateId=jesper">Our Prototype</a>
+- Comments:- Commenting is a valuable skill and a must in this project. Make sure to do it as it will make other collaborators to understand what you did.
 
 ## Contributing
 
